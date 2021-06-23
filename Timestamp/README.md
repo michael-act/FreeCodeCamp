@@ -3,6 +3,7 @@
 ```
 $ git clone https://github.com/michael-act/FreeCodeCamp
 $ cd FreeCodeCamp/Timestamp
+$ npm install
 $ npm start
 ```
 
