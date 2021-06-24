@@ -7,7 +7,7 @@ $ npm install
 $ npm start
 ```
 
-#### Try your first Notes Backend program
+#### Try your first Exercise Tracker Backend program
 
 ```shell
 $ curl -X POST "username=\"yourname\"" HOST_IP:PORT/api/users

@@ -7,7 +7,7 @@ $ npm install
 $ npm start
 ```
 
-#### Try your first Notes Backend program
+#### Try your first URL Shortener Backend program
 
 ```shell
 $ curl -X POST "url=\"https://google.com/\"" HOST_IP:PORT/api/shorturl

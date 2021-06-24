@@ -7,7 +7,7 @@ $ npm install
 $ npm start
 ```
 
-#### Try your first Notes Backend program
+#### Try your first Header Parser Backend program
 
 ```shell
 $ curl -X GET HOST_IP:PORT/api/whoami

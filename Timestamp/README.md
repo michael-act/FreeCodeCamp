@@ -7,7 +7,7 @@ $ npm install
 $ npm start
 ```
 
-#### Try your first Notes Backend program
+#### Try your first Timestamp Backend program
 
 ```shell
 $ curl -X GET HOST_IP:PORT/api/
